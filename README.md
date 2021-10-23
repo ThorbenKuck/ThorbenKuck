@@ -51,7 +51,7 @@ Only on github:
 
 ### Technologies (in order of knowledge)
 
-![Spring Boot](https://img.shields.io/badge/-Spring-Boot-000000?style=flat-square&logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat-square&logo=spring-boot)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring)
 ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat-square&logo=postgresql)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
