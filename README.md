@@ -12,7 +12,6 @@ Currently i am working at [open knowledge](https://www.openknowledge.de/), where
 - 🌱 I’m currently learning anything connected to enterprise development.
 
 [![Thorbens github stats](https://github-readme-stats.vercel.app/api?username=ThorbenKuck&theme=dark&show_icons=true)](https://github.com/ThorbenKuck/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbenKuck&theme=dark&layout=compact)](https://github.com/ThorbenKuck/github-readme-stats)
 
 ### 📫 How to reach me: 
 
@@ -32,6 +31,35 @@ I am live streaming let's codes on twitch!
 [![Twitch](twitch-icon.png)](https://www.twitch.tv/coffeeslothcoding)
 
  If you are interrested in watching someone develop an application live, i encourage you to check it out.
+
+## My Technology Stack:
+
+Only on github:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbenKuck&theme=dark&layout=compact)](https://github.com/ThorbenKuck/github-readme-stats)
+
+### Languages (in order of knowledge)
+
+![Kotlin](https://img.shields.io/badge/-Koltin-000000?style=flat-square&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=CSS3)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+
+### Technologies (in order of knowledge)
+
+![Spring Boot](https://img.shields.io/badge/-Spring-Boot-000000?style=flat-square&logo=spring-boot)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring)
+![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat-square&logo=postgresql)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
  
 - ⚡ Fun fact: There is a lot you can do with annotation processors, therebye eliminating a lot of reflection usage.
 - 🤔 My motto: "Impossible" is what you call the state before you think of the solution 
