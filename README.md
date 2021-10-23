@@ -6,7 +6,7 @@ I'm a very passionate software developer, focusing on applied software architect
 
 Currently i am working at [open knowledge](https://www.openknowledge.de/), where i focus on enterprise development.
 
-- 💬 Ask me about spring, i'm in a very passionate love/hate relationship with it.
+- 💬 Ask me about Spring (Boot), i'm in a very passionate love/hate relationship with it.
 - 👯 I’m looking to collaborate on Anything cool. Any framework or extension to a framework in Java (but basically whatever).
 - 🔭 I’m currently working on [ddt](https://github.com/ThorbenKuck/data-driven-tests) and a sneaky, but qute major update to [netcom2](https://github.com/ThorbenKuck/NetCom2).
 - 🌱 I’m currently learning anything connected to enterprise development.
