@@ -53,6 +53,7 @@ Only on github:
 
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat-square&logo=spring-boot)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring)
+![Junit 5](https://img.shields.io/badge/-Junit_5-000000?style=flat-square&logo=junit5)
 ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat-square&logo=postgresql)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
@@ -60,6 +61,10 @@ Only on github:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+
+And quite a lot more.
+
+---
  
 - ⚡ Fun fact: There is a lot you can do with annotation processors, therebye eliminating a lot of reflection usage.
 - 🤔 My motto: "Impossible" is what you call the state before you think of the solution 
