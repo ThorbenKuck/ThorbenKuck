@@ -4,11 +4,11 @@ Hey 👋! My name is Thorben Kuck!
 
 I'm a very passionate software developer, focusing on applied software architecture.
 
-Currently i am working at [open knowledge](https://www.openknowledge.de/), where i focus on enterprise development.
+Currently i am working at DSV, where i am a Solution Architect.
 
 - 💬 Ask me about Spring (Boot), i'm in a very passionate love/hate relationship with it.
-- 👯 I’m looking to collaborate on Anything cool. Any framework or extension to a framework in Java (but basically whatever).
-- 🔭 I’m currently working on [ddt](https://github.com/ThorbenKuck/data-driven-tests) and a sneaky, but qute major update to [netcom2](https://github.com/ThorbenKuck/NetCom2).
+- 👯 I’m looking to collaborate on Anything cool. Any framework or extension to a framework in Java or Kotlin (but basically whatever).
+- 🔭 I’m currently working on the first release version of [WireDI](https://github.com/ThorbenKuck/WireDI), a compile time spring-boot alternative.
 - 🌱 I’m currently learning anything connected to enterprise development.
 
 [![Thorbens github stats](https://github-readme-stats.vercel.app/api?username=ThorbenKuck&theme=dark&show_icons=true)](https://github.com/ThorbenKuck/github-readme-stats)
@@ -20,17 +20,13 @@ Currently i am working at [open knowledge](https://www.openknowledge.de/), where
 
 I am also running [my own website](https://thorbenkuck.de), but only as a separate side-project. The main use of the server it is running on is to test technologies and applications.
 
-Also, there is another, separate [gitlab](https://git.thorbenkuck.de) instance, which is used for applications.
-
 ## And other than work?
 
-I am live streaming let's codes on twitch!
-
-> Note: Currently i am not actively streaming.
+I used to live stream let's codes on twitch. Though not for some time now. Maybe I'll get back to that some day :)
 
 [![Twitch](twitch-icon.png)](https://www.twitch.tv/coffeeslothcoding)
 
- If you are interrested in watching someone develop an application live, i encourage you to check it out.
+If you are interrested in watching someone develop an application live, i encourage you to check it out.
 
 ## My Technology Stack:
 
